@@ -1,6 +1,6 @@
 # OAuth2orize
 
-[![Build](https://travis-ci.org/jaredhanson/oauth2orize.png)](https://travis-ci.org/jaredhanson/oauth2orize)
+[![Build Status](https://travis-ci.org/guillermocorrea/oauth2orize.svg?branch=master)](https://travis-ci.org/guillermocorrea/oauth2orize)
 [![Coverage](https://coveralls.io/repos/jaredhanson/oauth2orize/badge.png)](https://coveralls.io/r/jaredhanson/oauth2orize)
 [![Quality](https://codeclimate.com/github/jaredhanson/oauth2orize.png)](https://codeclimate.com/github/jaredhanson/oauth2orize)
 [![Dependencies](https://david-dm.org/jaredhanson/oauth2orize.png)](https://david-dm.org/jaredhanson/oauth2orize)
