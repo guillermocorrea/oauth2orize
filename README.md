@@ -1,7 +1,7 @@
 # OAuth2orize
 
 [![Build Status](https://travis-ci.org/guillermocorrea/oauth2orize.svg?branch=master)](https://travis-ci.org/guillermocorrea/oauth2orize)
-[![Coverage Status](https://coveralls.io/repos/guillermocorrea/oauth2orize/badge.png)](https://coveralls.io/r/guillermocorrea/oauth2orize)
+[![Coverage Status](https://coveralls.io/repos/guillermocorrea/oauth2orize/badge.png?branch=master)](https://coveralls.io/r/guillermocorrea/oauth2orize?branch=master)
 [![Quality](https://codeclimate.com/github/jaredhanson/oauth2orize.png)](https://codeclimate.com/github/jaredhanson/oauth2orize)
 [![Dependencies](https://david-dm.org/jaredhanson/oauth2orize.png)](https://david-dm.org/jaredhanson/oauth2orize)
 [![Tips](http://img.shields.io/gittip/jaredhanson.png)](https://www.gittip.com/jaredhanson/)
